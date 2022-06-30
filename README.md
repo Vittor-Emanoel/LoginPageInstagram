@@ -3,7 +3,7 @@ Esse repositório foi criado para mim por os projetos desenvolvidos nos bootcamp
 
 <h2>Proposta do projeto:</h2>
 
-Apesar de ser um projeto bem simples, a proposta foi projeto foi de praticar ainda mais o CSS-FLEX.
+Apesar de ser um projeto bem simples, a proposta foi projeto foi de praticar ainda mais o CSS-FLEXBOX.
  
  
 
